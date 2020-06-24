@@ -30,6 +30,6 @@ const db = {
   an: { chunks: ['a', 'n'], phones: ['AE', 'N'] },
   was: { chunks: ['w', 'a', 's'], phones: ['W', 'AA', 'Z'] },
   we: { chunks: ['w', 'e'], phones: ['W', 'IY'] },
-
+  iniya: { chunks: ['i', 'n','i', 'y','a'], phones: ['IY', 'N','IY', 'Y','AA'] },
 };
 export default db;
